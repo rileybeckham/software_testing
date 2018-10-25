@@ -1,6 +1,0 @@
-languauge: python
-python:
-      - "3.6"
-      - "3.5"
-script:
-     - ./runtest.sh
