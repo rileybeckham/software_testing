@@ -4,4 +4,4 @@ python:
      - "3.5"
      - "2.7"
 script:
-     - ./runtest.sh
+     - ./runtests.sh
